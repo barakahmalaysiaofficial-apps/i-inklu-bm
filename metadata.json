@@ -1,0 +1,8 @@
+{
+  "name": "i-INKLU BM",
+  "description": "An inclusive AI-powered platform for Bahasa Melayu learning, designed for students with dyslexia and learning disabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
